@@ -18,7 +18,7 @@ Before using this code, you should have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/mayankpujara/Indian-Food-Detectip.git
+   git clone https://github.com/mayankpujara/Indian-Food-Detection.git
 2. Navigate to the project directory:
    ```sh
    cd Indian-Food-Detection
