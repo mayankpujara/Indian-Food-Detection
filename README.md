@@ -11,7 +11,7 @@ Before using this code, you should have the following installed:
 - Jupyter Notebook (optional, but recommended)
 - Required libraries can be installed via pip:
   ```sh
-  pip install pandas numpy nltk scikit-learn matplotlib tensorflow
+  pip install numpy pandas matplotlib tensorflow os
   
 ## Installation
 
